@@ -1,0 +1,92 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.A{
+    text-align: center;
+    background-color: black;
+    color: rgb(254, 254, 254);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    border-color: aliceblue 2px;
+    border-radius: 10px;
+}
+.B{
+     margin-left: 400px;
+    margin-right: 400px;
+    background-color: darkred;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 50px;
+}
+.B--name{
+    font-size: 25px;
+    color: aliceblue;
+}
+.B--name input{
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-left: 4px;
+    margin-right: 100px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.B--add{
+    font-size: 25px;
+    color: aliceblue;
+     margin-bottom: 20px;
+}
+.B--add input{
+    padding: 5px;
+    margin-bottom: 5px;
+    margin-left: 4px;
+    margin-right: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.B--food{
+     font-size: 25px;
+    color: aliceblue;
+}
+.B--food select{
+padding: 5px;
+    margin-bottom: 5px;
+    margin-left: 4px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.B--qua{
+  font-size: 25px;
+    color: aliceblue;
+}
+.B--qua select{
+    padding: 5px;
+    margin-bottom: 15px;
+    margin-left: 4px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.B--but{
+    background-color: orangered;
+    border: none;
+   text-decoration-line: none;
+   margin-top: 30px;
+   padding-left: 20px;
+   padding-right: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+cursor: pointer;
+font-size: 20px;
+padding-top: 3px;
+padding-bottom: 3px;
+color: aliceblue;
+border-radius: 10px;
+}
+.B--but:hover{
+    background-color: yellowgreen;
+    color: black;
+    transform: scale(1.03);
+}
